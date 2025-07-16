@@ -4,19 +4,22 @@
   I'm a <strong>Computer Science graduate</strong> passionate about software development, especially in <strong>Java, Web Technologies, and SQL</strong>. I enjoy building real-world projects, solving problems, and learning new tools and frameworks.
 </p>
 
+<h3> Tech Stack</h3>
+<ul>
+  <li>Languages: Java, SQL, HTML, CSS, JavaScript</li>
+  <li>Frameworks/Libraries: JDBC, Hibernate, React (Learning)</li>
+  <li>Databases: Oracle SQL, MySQL</li>
+  <li>Tools: VS Code, Git, GitHub</li>
+</ul>
+
+<h3>🎯 Career Goals</h3>
 <p>
-  💻 <strong>Skills:</strong> Java, JDBC, Hibernate, Oracle SQL, PL/SQL, HTML, CSS, JavaScript, React (Learning)
+  I'm aiming to grow as a <strong>Full-Stack Developer</strong>and contribute to impactful software projects. 
+  I’m also exploring opportunities in cybersecurity and infrastructure support roles.
 </p>
 
-<p>
-  🚀 I'm currently working on improving my front-end skills and building full-stack applications.
-</p>
-
-<p>
-  🎯 <strong>Goal:</strong> To become a skilled software engineer and contribute to impactful projects in the tech industry.
-</p>
-
-<p>
-  📬 <strong>Contact Me:</strong> <a href="deeksha632003@gmail.com">your.email@example.com</a> <br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deeksha-784411256/" target="_blank">linkedin.com/in/yourprofile</a>
-</p>
+<h3>📫 Let's Connect</h3>
+<ul>
+  <li>Email: <a href="mailto:your.email@example.com">deeksha632003@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">https://www.linkedin.com/in/deeksha-784411256/</a></li>
+</ul>
